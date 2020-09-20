@@ -2,9 +2,9 @@
 Material for 360 degree preparation of coding + system design interviews in limited time.
 
 ## Motivation
-When I'd been working as a Software Engineer for 4 years, I realized that I need a change of jobs and its then it hit me, the vast gap between the skills required as a professional developer and for interviews.
-It's then when I decided to master Data Structures & Algorithms in such a way that's it's easier for me to revise them in future without dedicating much time to it. Preparing all of this content took my more than 3 months and I did multiple revisions of this content after seeing their effectiveness.
-Here I provide the most basic of problems and ideas that will help you ace any companies Software Engineering Interview.
+When I'd been working as a Software Engineer for 4 years, I realized that I need a change of job and it's then it hit me, the vast gap between the skills required as a professional developer and for the upcoming interviews.
+And it's then when I decided to master Data Structures & Algorithms in such a way that it's easier for me to revise in future without dedicating much time to them. Preparing all of this content took my more than 3 months and I did multiple revisions of this content after seeing their effectiveness.
+Here I provide the most basic but exhaustive set of problems and ideas that will help you ace any company's Software Engineering Interview.
 
 ## Master Algorithms
 
