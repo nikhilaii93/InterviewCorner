@@ -8,7 +8,7 @@ When I'd been working as a Software Engineer for 4 years, I realized that I need
 And it's then when I decided to master Data Structures & Algorithms in such a way that it's easier for me to revise in future without dedicating much time to them. Preparing all of this content took my more than 3 months and I did multiple revisions of this content after seeing their effectiveness.
 Here I provide the most basic but exhaustive set of problems and ideas that will help you ace any company's Software Engineering Interview.
 
-## Master Algorithms
+## Algorithms
 
 * Dynamic Programming & Greedy
 * Divide & Conquer
@@ -19,7 +19,7 @@ Here I provide the most basic but exhaustive set of problems and ideas that will
 
 [Algorithms](https://docs.google.com/document/d/e/2PACX-1vTK0wLpYGZM18yvTeMuCKniDIww6aEfiwemAZIPmyuLoO6pT1c2yMivtmSTq_v369m5pTi1tBPZjRHY/pub)
 
-## Master Data Structures
+## Data Structures
 
 * Linked List
 * Arrays
@@ -41,7 +41,7 @@ Here I provide the most basic but exhaustive set of problems and ideas that will
 
 [Review Problems](https://docs.google.com/document/d/e/2PACX-1vQclZ2sJhR9zTLl_evIP91LRV17ir3DV96LesaFWYsQzvsIwSdN_nmWG6AQnpvbvd6s-uDgBr6zeLts/pub)
 
-## Master System Design
+## System Design
 
 * Best Practices
 * Various System Designs - Covering Breadth of the systems with relevant technologies used, experience is required to grasp content well enough to be able to use in an interview setting
